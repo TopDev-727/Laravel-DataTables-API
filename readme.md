@@ -98,10 +98,6 @@ And that's it! Start building out some awesome DataTables!
 
 Please see [CONTRIBUTING](https://github.com/yajra/laravel-datatables/blob/master/CONTRIBUTING.md) for details.
 
-## Security
-
-If you discover any security related issues, please email [aqangeles@gmail.com](mailto:aqangeles@gmail.com) instead of using the issue tracker.
-
 ## Credits
 
 - This project is used to be a fork from [bllim/laravel4-datatables-package](https://github.com/bllim/laravel4-datatables-package).
